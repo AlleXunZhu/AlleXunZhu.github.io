@@ -191,9 +191,9 @@
   - 互审<—> 走查 <—> 会议
 
 - 动态测试
-  
+
 > 通过运行被测程序，检查运行结果与预期结果的差异，分析运行效率、正确性和robust性；（黑盒主要）
-  
+
 - 手工测试
 
   > 由专门测试人员从用户角度验证软件是否满足设计要求的行为。更适合针对深度的测试和强调主观判断的测试。（众包测试，探索性测试）
@@ -226,7 +226,7 @@
 
 ## 按测试模式分类
 
-> 瀑布模型、敏捷模型、基于脚本的测试、基于风险的测试、探索式测试 … 
+> 瀑布模型、敏捷模型、基于脚本的测试、基于风险的测试、探索式测试 …
 
 - 瀑布模型
 
@@ -244,7 +244,7 @@
 
 - ==V模型（目前使用最广泛）==
 
-  - <img src="/Users/promethium/Documents/GitHub/AlleXunZhu.github.io/SoftwareTestingFig/V-model.png" alt="V-model" style="zoom:50%;" />
+  ![V-model](SoftwareTestingFig/V-model.png )
 
   - 需求分析 —> 概要设计 —> 详细设计 —> 软件编码 —>|
 
@@ -254,8 +254,7 @@
 
 - W模型
 
-  - <img src="/Users/promethium/Documents/GitHub/AlleXunZhu.github.io/SoftwareTestingFig/W-model.png" alt="W-model" style="zoom:50%;" />
-  - ![W-model](SoftwareTestingFig/W-model.png)
+   ![W-model](SoftwareTestingFig/W-model.png )
 
   - **用户需求 —> 需求分析 —> 概要设计 —> 详细设计 —> 编码 —> **
 
@@ -270,11 +269,11 @@
 
 - X模型
 
-  - <img src="/Users/promethium/Documents/GitHub/AlleXunZhu.github.io/SoftwareTestingFig/X-model.png" alt="X-model" style="zoom:50%;" />
+  ![X-model](SoftwareTestingFig/X-model.png )
 
 - H模型
 
-  - <img src="/Users/promethium/Documents/GitHub/AlleXunZhu.github.io/SoftwareTestingFig/H-model.png" alt="H-model" style="zoom:50%;" />
+  ![H-model](SoftwareTestingFig/H-model.png )
 
 - ==敏捷测试==
 
@@ -395,7 +394,7 @@
       - 商业损失
       - 组织负面影响和损害
       - 社会损失和法律责任
-    - 风险要素分 = Sum(单项权重 \* 得分) 
+    - 风险要素分 = Sum(单项权重 \* 得分)
   - RBT优点
     - 风险随测试工作量快速降低
     - 质量信心有保证
