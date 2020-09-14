@@ -255,6 +255,7 @@
 - W模型
 
   - <img src="/Users/promethium/Documents/GitHub/AlleXunZhu.github.io/SoftwareTestingFig/W-model.png" alt="W-model" style="zoom:50%;" />
+  - ![W-model](SoftwareTestingFig/W-model.png)
 
   - **用户需求 —> 需求分析 —> 概要设计 —> 详细设计 —> 编码 —> **
 
